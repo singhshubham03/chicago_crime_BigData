@@ -18,7 +18,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/crime-data-analysis.git
+   git clone https://github.com/singhshubham03/chicago_crime_BigData.git
    
  2.Install the required dependencies:
  pip install -r requirements.txt
